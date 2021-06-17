@@ -1,7 +1,7 @@
 # smog-checks
 *(c) Felipe del Canto (PUC-Chile)*
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/pattern-recognition/blob/main/assignments/3%20-%20Skin%20lesion%20classifier/assignment3_fdc.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pipeton8/smog-checks/blob/main/SMOG_Checks.ipynb)
 
 This script is designed to recognize matching brands and models of cars from a Chilean fleet database. Both models and brands are written differently in the base because of typos (i.e. NISSSAN instead of NISSAN), abbreviations (i.e. KIA instead of KIA MOTORS) or mispellings (i.e. SSANG YON instead of SSANGYON).
 
